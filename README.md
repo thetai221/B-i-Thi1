@@ -8,3 +8,5 @@ làm phép lấy dư
 làm phép lũy thừa
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/82076725_805407313266329_7570533428668399616_o.jpg?_nc_cat=104&_nc_ohc=QJfMbR21SrQAQm1Qx-otSO1aESnHf4bXdI7zYFBi_hPO0u0jkR0ODhcEg&_nc_ht=scontent.fdad1-1.fna&oh=3df53798a8ff99533deaa36cef4f0703&oe=5E9EDF3F">
 làm phép nối chuỗi
+Kết quả
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/82126994_805411113265949_7799778776971214848_o.jpg?_nc_cat=109&_nc_ohc=oMN4vTNJk4MAQlLXwUqATm-1gmzCiIP7FLLnUNZC5nWnLDdG7wud9MG6Q&_nc_ht=scontent.fdad2-1.fna&oh=01ff3c7e2564a7a0913efd433bdf6de7&oe=5EAB06B0">
